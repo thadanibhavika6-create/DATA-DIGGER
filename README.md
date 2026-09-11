@@ -21,6 +21,8 @@ This project simulates the backend database of a simple **e-commerce platform**.
 
 It's a great practice project for learning **DDL**, **DML**, and **aggregate/analytical SQL queries**.
 
+<img width="3640" height="2600" alt="data_digger_output_infographic (1)" src="https://github.com/user-attachments/assets/1d03c7f0-0246-45f0-96ca-f38fbc9f355d" />
+
 <br/>
 
 <div align="center">
