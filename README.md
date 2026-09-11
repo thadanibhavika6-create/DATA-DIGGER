@@ -1,7 +1,6 @@
-# DATA-DIGGER
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=E-Commerce%20SQL%20Project&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Database%20Design%20%7C%20CRUD%20%7C%20Aggregates%20%7C%20Analytics&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=DATA%20DIGGER&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Database%20Design%20%7C%20CRUD%20%7C%20Aggregates%20%7C%20Analytics&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Customer+%E2%86%92+Order+%E2%86%92+Product+relational+design;CRUD+operations+in+pure+SQL;Aggregate+%26+analytical+queries;Beginner-friendly+SQL+practice+project&font=Fira+Code&center=true&width=650&height=45&color=2575fc&vCenter=true&size=22&pause=1200"/>
 
