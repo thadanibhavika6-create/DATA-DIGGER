@@ -179,6 +179,10 @@ customers 1───N Orders 1───N OrderDetails N───1 Products
 
 ### 👤 Author
 
+**Bhavika Thadani
+📍Ahmedanad**
+
+
 Made with ❤️ to strengthen SQL fundamentals — DDL, DML & aggregate query concepts.
 
 ⭐ **If you found this project useful, consider giving it a star!**
