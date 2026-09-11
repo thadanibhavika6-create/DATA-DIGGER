@@ -178,7 +178,8 @@ customers 1───N Orders 1───N OrderDetails N───1 Products
 <br/>
 
 ## 🖼️ Sample Output
-<img width="3640" height="2600" alt="data_digger_output_infographic (1)" src="https://github.com/user-attachments/assets/0b8be8b8-e6f5-427a-a571-2c120d5fd96a" />
+
+<img width="1500" height="1656" alt="data_digger_dashboard" src="https://github.com/user-attachments/assets/76b493f2-2f54-45fa-9ecc-cef0acf5d29d" />
 
 <br/>
 
